@@ -1,0 +1,51 @@
+{
+  "name": "BrowserTools MCP",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "https://github.com/AgentDeskAI/browser-tools-mcp/issues"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://github.com/AgentDeskAI/browser-tools-mcp"
+  },
+  "anchors": [
+    {
+      "name": "API Reference",
+      "icon": "rectangle-terminal",
+      "url": "api-reference"
+    },
+    {
+      "name": "Community",
+      "icon": "discord",
+      "url": "https://discord.gg/agentdesk"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "docs/index",
+        "docs/installation",
+        "docs/quickstart",
+        "docs/troubleshooting"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/tedx_ai",
+    "github": "https://github.com/AgentDeskAI/browser-tools-mcp",
+    "linkedin": "https://www.linkedin.com/company/agentdesk"
+  }
+}
